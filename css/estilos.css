@@ -1,0 +1,30 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+/*------------------CABECERA-----------------------------*/
+.text-titulo{
+	color: gray;
+	line-height: 17px;
+}
+
+/*----------------FORMULARIO-------------------------*/
+	.form-datos{
+		color: black;
+		font-weight: bold;	
+		padding: 45px;
+		border-radius: 14px 26px 26px 26px;
+		box-shadow: 0px 0px 12px #D3D2D2;
+		box-sizing: border-box;
+	}
+	.form-control{
+		color: darkgrey;
+	}
+	#btn-enviar{
+		background: #E03B65;
+		font-weight: bold;
+		border-color: #E03B65;
+		border-radius: 40px;
+		color: white;
+		font-size: 14px;
+	}
